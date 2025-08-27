@@ -18,24 +18,24 @@ Key insights include:
 
 ## 2.0 Dashboards
 
-### 2.1 PPA Experience Analysis
-Focuses on job relevance, satisfaction, compensation, and retention intent.  
+### 2.1 Demographic & Program Perception
+Analyzes age, marital status, deployment, and the perceived value of the NYSC scheme itself.  
 
-![PPA Experience Analysis](images/Screenshot6.png)
+![Demographics & Program Perception](Dashboard1.png)
 
 ---
 
-### 2.2 Demographic & Program Perception
-Analyzes age, marital status, deployment, and the perceived value of the NYSC scheme itself.  
+### 2.2 PPA Experience Analysis
+Focuses on job relevance, satisfaction, compensation, and retention intent.  
 
-![Demographics & Program Perception](images/Screenshot7.png)
+![PPA Experience Analysis](Dashboard2.png)
 
 ---
 
 ### 2.3 Placement & Post-Service Plans
 Details PPA industry categories, accommodation types, and future aspirations.  
 
-![Placement & Post-Service Plans](images/Screenshot8.png)
+![Placement & Post-Service Plans](Dashboard3.png)
 
 ---
 
@@ -70,7 +70,7 @@ Details PPA industry categories, accommodation types, and future aspirations.
 ---
 
 ## 5.0 Technical Implementation
-- **Tools:** Microsoft Power BI, Power Query, DAX  
+- **Tools:** Microsoft Power BI, Power Query, Microsoft Excel, Google forms 
 - **Project Files:**  
   - `NYSC_Analysis.pbix` → Power BI dashboard file  
   - `Data_Source.csv` → Cleaned and anonymized dataset  
