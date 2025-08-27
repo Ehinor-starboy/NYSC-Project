@@ -21,21 +21,21 @@ Key insights include:
 ### 2.1 Demographic & Program Perception
 Analyzes age, marital status, deployment, and the perceived value of the NYSC scheme itself.  
 
-![Demographics & Program Perception](Dashboard1.png)
+![Demographics & Program Perception](images/overview.png)
 
 ---
 
 ### 2.2 PPA Experience Analysis
 Focuses on job relevance, satisfaction, compensation, and retention intent.  
 
-![PPA Experience Analysis](Dashboard2.png)
+![PPA Experience Analysis](images/ppa-experience.png)
 
 ---
 
 ### 2.3 Placement & Post-Service Plans
 Details PPA industry categories, accommodation types, and future aspirations.  
 
-![Placement & Post-Service Plans](Dashboard3.png)
+![Placement & Post-Service Plans](images/post-service.png)
 
 ---
 
